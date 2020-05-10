@@ -7,3 +7,5 @@ Link 2 - https://www.geeksforgeeks.org/extraction-of-tweets-using-tweepy/
 Link 3 - http://adilmoujahid.com/posts/2014/07/twitter-analytics/
 
 Link 4 - https://medium.com/@jayeshsrivastava470/how-to-extract-tweets-from-twitter-in-python-47dd07f4e8e7 
+
+Link 5 - https://medium.com/@scorrea92/nlp-twitter-sentiment-analysis-with-tensorflow-15e1b2594cfa
