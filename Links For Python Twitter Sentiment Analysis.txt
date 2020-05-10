@@ -1,0 +1,9 @@
+Please refer any of the given links to understand about Twitter Sentiment Analysis and use it in project.
+
+Link 1 -  https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf 
+
+Link 2 - https://www.geeksforgeeks.org/extraction-of-tweets-using-tweepy/
+
+Link 3 - http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+
+Link 4 - https://medium.com/@jayeshsrivastava470/how-to-extract-tweets-from-twitter-in-python-47dd07f4e8e7 
